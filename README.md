@@ -10,7 +10,7 @@
 
 ## Contact me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=souzajucimara/souzajucimara)](LINK_GITHUB)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=souzajucimara/souzajucimara)](https://www.linkedin.com/in/jucimara-souza-431203198/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=in/jucimara-souza-431203198/)](LINK_LINKEDIN)
 [![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=wa.me/qr/CG2BESZY7ZSXO1)](LINK_WHATSAPP)
 
