@@ -1,12 +1,12 @@
 # Hello world, I'm Jucimara! 🌎
 
-👩🏻‍💻: I'm technology student!
+👩🏻‍💻: I study Systems Analysis and Development.
 
 🏡: I’m from Sao Paulo, Brazil.
 
 📚: I’m currently learning JavaScript, HTML, CSS, PHP and Python.
 
-📤: 2022 Goals: create new projects and get a new job.
+📤: 2022 Goals: create new projects and get an internship.
 
 ## Contact me
 
