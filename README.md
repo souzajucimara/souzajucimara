@@ -1,4 +1,4 @@
-# Hello world, I'm Jucimara! 🌎
+# 🌎  Hello world, I'm Jucimara!
 
 👩🏻‍💻: I study Systems Analysis and Development.
 
