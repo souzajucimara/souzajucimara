@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! Welcome to my profile. Here you will find some of my projects and contributions, reflecting my professional and academic journey to date.</p>
+<p align="left">Welcome to my profile. Here you will find some of my projects and contributions, reflecting my professional and academic journey to date.</p>
 
 ###
 
