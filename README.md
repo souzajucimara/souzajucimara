@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">📚 I'm currently learning how to query the database with SQL, manipulate data with Python and create dashboards with Google Looker Studio.<br><br>🎯 Goals: get a job as a Data Analyst.</p>
+<p align="left">📚 I'm currently learning how to query the database with SQL, manipulate data with Python and create dashboards with Google Looker Studio.<br><br>🎯 Goals: Get a job as a Data Analyst.</p>
 
 ###
 
-<h2 align="left">Languages ​​and technologies</h2>
+<h2 align="left">Languages ​​and technology I know</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">My contacts</h2>
+<h2 align="left">My contact</h2>
 
 ###
 
@@ -51,6 +51,12 @@
   </a>
   <a href="mailto:jucimarassouza@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  </a>
+  <a href="https://www.instagram.com/ssouzajucimara" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://wa.me/5511972714552" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
