@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning how to query the database with SQL, manipulate data with Python and create dashboards with Google Looker Studio.<br><br>🎯 Goals: Get a job as a Data Analyst.</p>
+<p align="left">📚 I'm currently learning how to query the database with SQL, manipulate data with Python and create dashboards with Google Looker Studio.<br><br>🎯 Goals: get a job as a Data Analyst.</p>
 
 ###
 
